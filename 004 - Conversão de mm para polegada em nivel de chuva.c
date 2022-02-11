@@ -1,12 +1,12 @@
 #include<stdio.h>
 
-// Convers„o de mm para polegada em nivel de chuva
+// Convers√£o de mm para polegada em nivel de chuva
 
 int main()
 {
 	float n1,n2,n3;
 		
-	printf("Digite A Quantidade de Chuva em mm: "); // utilizar ponto (.) n„o virgula(,) para fazr o cÛdigo.
+	printf("Digite A Quantidade de Chuva em mm: "); // utilizar ponto (.) n√£o virgula(,) para definir a quantidade de chuva.
 	scanf("%f",&n1);
 
 	n2 = 25.4;
