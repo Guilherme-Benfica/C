@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Definindo a porcenatgem a ser recebida por um vendedor de carros. 
+// Definindo a porcentagem a ser recebida por um vendedor de carros. 
 
 int main()
 {
